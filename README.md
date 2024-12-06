@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Mithun Dhanasuthan!  
 
-🎓 **High School Student | IB Diploma Candidate | Aspiring Software Developer**  
+🎓 **High School Student**  
 📍 Based in Ottawa, Ontario  
 
 ---
 
 ## 🚀 About Me  
 
-I'm a passionate high school student deeply interested in programming, robotics, and technology. With hands-on experience in various programming languages and frameworks, I'm on a journey to explore innovative solutions and build impactful projects.  
+I'm a passionate high school student deeply interested in programming, robotics, and technology. With hands-on experience in various programming languages and frameworks
 
-I am currently participating in Hack Club projects, aiming to become a software lead in **VEX Robotics**, and always seeking opportunities to learn and grow in the tech field.  
 
 ---
 
