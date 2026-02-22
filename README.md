@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a Grade 12 High school student at Merivale High School, pursuing an OSSD and IB diploma<br>I have been programming since grade 8 and have recently done an internship as a mobile developer using react native and swift.<br>I am currently deepening my understanding in full-stack development. <br>I am open to any advice or oppurtunities!
+I am currently a Grade 12 High school student at Merivale High School, pursuing an OSSD and IB diploma<br>I have been programming since grade 8 and have recently done an internship as a mobile developer using react native and swift.<br>I am currently deepening my understanding in full-stack development.<br>To look at some of my notable projects check out my repos or my devpost:https://devpost.com/mithustar39 <br>I am open to any advice or oppurtunities!
 
 
 ## 🌐 Socials:
