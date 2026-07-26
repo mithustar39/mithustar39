@@ -1,1 +1,3 @@
-Gr 12 in Ottawa, learning c++ currently, building random stuff 
+Carleton computer systems eng student, interning at codewilling as a swe and interned at Brash Inc.
+Currently exploring c++ and building/learning in general :)  
+open to any advice!
