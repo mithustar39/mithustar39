@@ -1,3 +1,3 @@
-Carleton computer systems eng student, interning at codewilling as a swe and interned at Brash Inc.
+Carleton computer systems eng student
 Currently exploring c++ and building/learning in general :)  
 open to any advice!
