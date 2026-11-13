@@ -1,5 +1,6 @@
 Carleton computer systems eng student
-Currently exploring c++ and building/learning in general :)  
+Currently exploring c++ and building/learning in general :)
 open to any advice!
 
-Resume: https://mithustar39.github.io/
+Website: https://mithustar39.github.io/Mithun-Dhanasuthan/
+Resume: https://mithustar39.github.io/resume.pdf
